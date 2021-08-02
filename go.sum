@@ -1,0 +1,6 @@
+github.com/cvasquezz/readEnvGO v0.0.0-20210802025210-e9cc2393a137 h1:3wILMOpCurD4qUJKsfXTpbCIQqw5qCNtz68LHYHy4Bg=
+github.com/cvasquezz/readEnvGO v0.0.0-20210802025210-e9cc2393a137/go.mod h1:3BzRk7cBp9rYbiwldI7vcAIB8nulK0rHnPTIbvdHwR0=
+github.com/cvasquezz/readEnvGO v0.0.0-20210802031008-894620624d4c h1:/SYOALHtfCjJ8cv/YDaoFu3wf08wiRGjHppwQ7jEYdU=
+github.com/cvasquezz/readEnvGO v0.0.0-20210802031008-894620624d4c/go.mod h1:3BzRk7cBp9rYbiwldI7vcAIB8nulK0rHnPTIbvdHwR0=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
